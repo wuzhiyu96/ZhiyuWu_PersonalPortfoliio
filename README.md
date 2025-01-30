@@ -15,10 +15,10 @@ This portfolio documents my learning journey and project work during the Data Sc
 In each part there will be a separate README file for further explaination.
 
 ## Contact
-Zhiyu Wu
+Zhiyu Wu\n
 
-Master's Student, Environmental Sciences
+Master's Student, Environmental Sciences\n
 
-Wageningen University
+Wageningen University\n
 
 zhiyu.wu@wur.nl
