@@ -3,8 +3,8 @@
 ## Overview
 This folder documents the implementation of the second learning goal, focusing on geospatial data processing and visualization. It contains key resources demonstrating the practical application of ArcGIS Pro skills, including:
 
-- Highway shapefile (snelweg.zip): Geospatial data representing highway networks
-- ArcGIS Pro toolbox screenshot (GeoprocessingFlowmap.png): Illustrating the data processing workflow
+- Highway shapefile ('snelweg.zip'): Geospatial data representing highway networks
+- ArcGIS Pro toolbox screenshot ('GeoprocessingFlowmap.png'): Illustrating the data processing workflow
 - Web map: The final visualization product created from the processed geospatial data
 
 ## Background
