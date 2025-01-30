@@ -1,5 +1,7 @@
 # Goal 2: Data acquisition and web map publishing
 ## Overview
+This folder contains materials related to the second learning goal, which includes the shape file of highway acquired online(snelweg.zip), a screenshot of the ArcGIS pro toolbox, as well as the web map created from these data and geo-processing.
+
 ## Background
 I have previously completed two courses on ArcGIS Pro, which provided me with:
 - Familiarity with the software interface
