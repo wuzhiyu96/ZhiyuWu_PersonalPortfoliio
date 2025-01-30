@@ -5,7 +5,7 @@ This folder documents the implementation of the second learning goal, focusing o
 
 - Highway shapefile (`snelweg.zip`): Geospatial data representing highway networks
 - ArcGIS Pro toolbox screenshot (`GeoprocessingFlowmap.png`): Illustrating the data processing workflow
-- Web map: The final visualization product created from the processed geospatial data
+- Web map (`ArcGISWebmap.md`): The final visualization product created from the processed geospatial data
 
 ## Background
 I have previously completed two courses on ArcGIS Pro, which provided me with:
