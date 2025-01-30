@@ -45,8 +45,14 @@ This article lists some simple principles for data scientists.
 
 **Reflection on the project environment and future:**
 
-## Conclusions
-Technology development can be two-sided sword, while we as students and researchers would like to use new technology like AI to help us, it is important to see how harmful it could be. In the project setting, using too much tools like AI for coding and text generating could be detrimental for material understangindg. Therefore, we should really use it wisely, as the thing that matters is the learnign process rather than the results.
+## Conclusion and discussion
+As a nature sciences major, ethics and data privacy could be distant for me at first, but after finishing this learning goal by reading relevant articles and intertwining it with our group project, I realize how important it is to educate myself with knowledge in this field. It can not only make me a scientist that is good in research, but also a scientist that is more responsible and can actively think about the consequences of the research results.
+
+After this course, I also came to realize the ethics and privacy issues are everywhere in the academic world, and it made me think about what is the ultimate goal of doing research. As students in an ivory tower, it is very easy for us to lose the view of the complete picture after digging in a specific field for a long time. Therefore, this learning process made me realize the original goal of research is to make the society a better place.
+
+In our group project, a lot of existing issues are also caused by miscommunication between stakeholders and lack of transparency in decision making (nitrogen crisis in the Netherlands). I think by educating more people about how doing research can influence people's lives, the next generation of researchers in the Netherlands will have more social awareness and make good use of their research work.
+
+On the other hand, doing group work in a short timespan also made me realize that technology development can be a two-sided sword. While we as students and researchers would like to use new technology like AI to help us, it is important to see how harmful it could be. In the project setting, using too many tools like AI for coding and text generating could be detrimental for material understanding. Therefore, we should really use it wisely, as the thing that matters is the learning process rather than the results.
 
 ## Reference articles (details can be find in folder: /EthicsArticles)
 **-Article 1:** Zook, M., Barocas, S., Boyd, D., Crawford, K., Keller, E., Gangadharan, S. P., ... & Pasquale, F. (2017). Ten simple rules for responsible big data research. PLoS computational biology, 13(3), e1005399.
