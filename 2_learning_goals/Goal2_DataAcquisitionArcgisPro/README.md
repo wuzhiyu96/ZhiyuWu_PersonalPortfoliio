@@ -1,4 +1,5 @@
 # Goal 2: Data acquisition and web map publishing
+## Overview
 ## Background
 I have previously completed two courses on ArcGIS Pro, which provided me with:
 - Familiarity with the software interface
@@ -10,36 +11,27 @@ However, my previous experience was limited by:
 - Lack of real-world data acquisition skills
 - Minimal experience in independent data sourcing
 
+For this project, I am planning to map out $NO_x$ measurement stations' relative location with the highway, as a way to select suitable locations for our research.
+
 ## Methodology and Data Sources
 ### Data Acquisition Approach
-- Identify reliable online data sources
-- Use government and research institution databases
-- Verify data quality and relevance
-- Cross-reference multiple sources
+I approached data collection systematically, focusing on reliable and accessible sources. For pollution measurement data, I used the familiar RIVM website, which provided a straightforward download process. The highway data required more effort due to language barriers, but I successfully located the information on the Rijkswaterstaat website.
+
+### Data Verification
+To ensure data reliability, I employed multiple verification strategies. For the highway shapefile, I cross-referenced the data with alternative sources and Google Maps to confirm its accuracy and completeness.
 
 ### Data Sources
 - RIVM (Dutch National Institute for Public Health and the Environment)
-- Governmental open data platforms
-- Scientific research databases
-- Geospatial data repositories
+- Rijkswaterstaat
 
 ## Implementation Details
-- Systematic data collection process
-- Careful evaluation of data relevance
-- Integration of diverse data types
-- Practical application in project context
+The project utilized two primary data sources:
+- $NO_x$ pollution data and location calculations from previous work (File can be find in 
+- Highway geo-locations in polyline format, downloaded from official sources
 
-### Key Implementation Steps
-- Locate appropriate online data sources
-- Download and process geospatial data
-- Clean and prepare datasets
-- Integrate data into ArcGIS Pro
-- Create meaningful visualizations
+The implementation process is documented through ArcGIS Toolbox screenshots, demonstrating the step-by-step data processing approach.
 
 ## Results
-- Successfully acquired multiple datasets
-- Developed skills in independent data sourcing
-- Created comprehensive geospatial visualizations
-- Produced ArcGIS StoryMaps with collected data
+The project culminated in a published web map, showcasing the integrated NO_x pollution and highway location data.
 
 ## Conclusions
