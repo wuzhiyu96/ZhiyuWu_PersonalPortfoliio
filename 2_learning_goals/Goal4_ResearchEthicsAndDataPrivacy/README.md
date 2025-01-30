@@ -29,14 +29,15 @@ This article lists some simple principles for data scientists.
 - Always document the processes of averaging data, removing outliers, and other modifications within the datasets. Share this information with your team and include it in the final report.
 
 ### Article 2: Crowd-Sourcing the Smart City
-- Challenges in establishing ethical guidelines for emerging technologies
-- Core principles of research ethics
-- Defining and protecting private information
-- Gaps in ethical training for data researchers
-
+**Major argument:**
+- In the field of computer ethics, it is very common to encounter policy vacuums due to the constant advancement of computer technology. Therefore, it is important to establish protocols for formulating policies to guide actions.
+- Core principles of research ethics: minimizing harm (including physical harm, psychological distress, social and reputational disadvantages), obtaining informed consent, and protecting subject privacy and confidentiality.
+- Definetion of private information: First, it is that which subjects reasonably expect is not normally monitored or collected. Second, it is that which subjects reasonably expect is not normally publicly available. When research potentially includes the collection of private information, ethics requires the development of protocols with sufficient safeguards to protect subject privacy and maintain confidentiality of research data.
+- In today's academic environment, it is rather easy to obtain large data sets, often outside any institutional supervision or authority. However, there is a deficiency regarding teaching research ethics to students and researchers across disciplines, and especially in the domain of big data research, students from this field are not exposed to rigorous training on research ethics.
+  
+**Reflection on the project environment and future:**
+  
 ### Article 3: Locating Ethics in Data Science
-- Responsibility in global knowledge production
-- Accountability in distributed research systems
 
 ## Conclusions
 
