@@ -39,20 +39,7 @@ This article lists some simple principles for data scientists.
 - Accountability in distributed research systems
 
 ## Conclusions
-### Goal Accomplishment
-- Developed comprehensive understanding of data ethics
-- Learned protocols for responsible data management
-- Identified potential ethical challenges in research
 
-### Technical Conclusions
-- Importance of data anonymization
-- Need for transparent research practices
-- Risks of unintentional personal information exposure
-
-### Personal Development
-- Enhanced critical thinking about data ethics
-- Improved ability to evaluate research methodologies
-- Developed a responsible approach to data science
 
 ## Reference articles (details can be find in folder: /EthicsArticles)
 **-Article 1:** Zook, M., Barocas, S., Boyd, D., Crawford, K., Keller, E., Gangadharan, S. P., ... & Pasquale, F. (2017). Ten simple rules for responsible big data research. PLoS computational biology, 13(3), e1005399.
