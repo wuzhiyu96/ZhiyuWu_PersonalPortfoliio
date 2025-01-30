@@ -1,4 +1,4 @@
-# Code and Data Traffic Content
+# Notebooks folder
 
 This file explains the function of the three following Python notebooks in the `/Notebooks` folder:
 
