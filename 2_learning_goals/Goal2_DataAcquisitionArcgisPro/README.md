@@ -1,4 +1,4 @@
-# Goal 2: Data acquisition
+# Goal 2: Data acquisition and web map publishing
 ## Background
 I have previously completed two courses on ArcGIS Pro, which provided me with:
 - Familiarity with the software interface
