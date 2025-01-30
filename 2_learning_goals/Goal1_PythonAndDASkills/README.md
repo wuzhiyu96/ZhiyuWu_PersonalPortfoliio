@@ -1,7 +1,7 @@
 # Goal 1: Information Analysis and Visualization
 
 ## Background
-### My Python Journey Before the course
+### My Python Journey Before This Course
 - Previous experience with Python in courses and master thesis
 - Self-taught through online resources and troubleshooting
 - Informal learning led to lack of confidence in understanding code blocks
