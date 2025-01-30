@@ -8,11 +8,11 @@
 
 ## Methodology
 ### Reference articles
--**Article 1: **Zook, M., Barocas, S., Boyd, D., Crawford, K., Keller, E., Gangadharan, S. P., ... \& Pasquale, F. (2017). Ten simple rules for responsible big data research. PLoS computational biology, 13(3), e1005399.
+**-Article 1:** Zook, M., Barocas, S., Boyd, D., Crawford, K., Keller, E., Gangadharan, S. P., ... & Pasquale, F. (2017). Ten simple rules for responsible big data research. PLoS computational biology, 13(3), e1005399.
 
--**Article 1: **Zook, Matthew. "Crowd-sourcing the smart city: Using big geosocial media metrics in urban governance." Big Data \& Society 4.1 (2017): 2053951717694384.
+**-Article 2:**Zook, Matthew. "Crowd-sourcing the smart city: Using big geosocial media metrics in urban governance." Big Data & Society 4.1 (2017): 2053951717694384.
 
--**Article 1: **Vayena, E., & Tasioulas, J. (2016). The dynamics of big data and human rights: The case of scientific research. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2083), 20160129.
+**-Article 3:**Vayena, E., & Tasioulas, J. (2016). The dynamics of big data and human rights: The case of scientific research. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2083), 20160129.
 ### Approach
 - Critical literature review
 - Systematic analysis of ethical considerations
