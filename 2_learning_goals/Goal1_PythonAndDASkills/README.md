@@ -1,10 +1,13 @@
 # Goal 1: Information Analysis and Visualization
 
 ## Background
+### My Python Journey Before the course
 - Previous experience with Python in courses and master thesis
 - Self-taught through online resources and troubleshooting
 - Informal learning led to lack of confidence in understanding code blocks
 - Desire to develop structured and professional Python skills
+### The Traffic Project
+### The Internship Project
 
 ## Methodology
 ### Data Sources
