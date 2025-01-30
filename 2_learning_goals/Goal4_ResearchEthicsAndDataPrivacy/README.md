@@ -1,7 +1,7 @@
 # Goal 4: Social and Privacy Aspects
 
 ## Overview
-This folder contains materials related to the fourth learning goal, there is a folder (EthicsPosters) containing the ethics poster of Group Traffic 1 (among which I contributed most on the dystopia poster and the reflection poster, I got a lot of inspiration from Article 1: Ten simple rules for responsible big data research), a folder (EthicsArticles) containing three articles about ethics and data privacy I read for this course, and in the following part of this document, I write down main takeaways from the three articles, as well as lectures and workshops during the course.
+This folder contains materials related to the fourth learning goal, there is a folder (/EthicsPosters) containing the ethics poster of Group Traffic 1 (among which I contributed most on the dystopia poster and the reflection poster, I got a lot of inspiration from Article 1: Ten simple rules for responsible big data research), a folder (/EthicsArticles) containing three articles about ethics and data privacy I read for this course, and in the following part of this document, I write down main takeaways from the three articles, as well as lectures and workshops during the course.
 
 ## Background
 Since I come from a scientific background and completed my Bachelor’s degree in another country, the topics of data privacy and conducting research ethically are relatively new to me. While I have read some articles about these issues in my personal time, I have not yet applied them in an academic setting. Additionally, I am curious about potential underlying issues associated with using public data, which often seems prevalent and harmless at first glance.
@@ -54,7 +54,7 @@ This article lists some simple principles for data scientists.
 - Improved ability to evaluate research methodologies
 - Developed a responsible approach to data science
 
-## Reference articles (details can be find in folder: \Ethics articles)
+## Reference articles (details can be find in folder: /EthicsArticles)
 **-Article 1:** Zook, M., Barocas, S., Boyd, D., Crawford, K., Keller, E., Gangadharan, S. P., ... & Pasquale, F. (2017). Ten simple rules for responsible big data research. PLoS computational biology, 13(3), e1005399.
 
 **-Article 2:** Zook, Matthew. "Crowd-sourcing the smart city: Using big geosocial media metrics in urban governance." Big Data & Society 4.1 (2017): 2053951717694384.
