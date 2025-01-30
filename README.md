@@ -16,6 +16,9 @@ In each part there will be a separate README file for further explaination.
 
 ## Contact
 Zhiyu Wu
+
 Master's Student, Environmental Sciences
+
 Wageningen University
+
 zhiyu.wu@wur.nl
