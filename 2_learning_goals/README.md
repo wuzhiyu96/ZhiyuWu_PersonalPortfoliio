@@ -13,5 +13,4 @@ This folder contains detailed documentation of the four personal learning goals 
 ### Goal 4: Research Ethics and Data Privacy
 
 ## Note
-There will be a separate README.md file in each goal's folder, each goal folder includes information related to the background, methodology and data source used, details about the implementation, results
-, and conclusions both on the results as well as on the accomplishment of the goal
+There will be a separate README.md file in each goal's folder, each goal folder includes information related to the background, methodology and data source used, details about the implementation, results, and conclusions both on the results as well as on the accomplishment of the goal
