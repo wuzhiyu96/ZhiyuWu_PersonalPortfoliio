@@ -39,7 +39,7 @@ The project utilized two primary data sources:
 The implementation process is documented through ArcGIS Toolbox screenshots, demonstrating the step-by-step data processing approach.
 
 ## Results
-The project culminated in a published web map, showcasing the integrated NO_x pollution for day period of Oct, 2019 and Oct, 2023, as well as decreased (increased) percentage, and highway location data.
+The project culminated in a published web map, showcasing the integrated $NO_x$ pollution for day period of Oct, 2019 and Oct, 2023, as well as decreased (increased) percentage, and highway location data.
 
 ## Conclusions
 By completing this learning goal, I am more familiar with acquiring raw data online and importing them into ArcGIS pro, as well as publishing results as webmap.
