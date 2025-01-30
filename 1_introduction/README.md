@@ -1,4 +1,4 @@
-#About Me and Initial Learning Goals
+# About Me and Initial Learning Goals
 ## Introduction
 
 I am currently pursuing a Master's degree in Environmental Sciences at Wageningen University. I completed my Bachelor's degree in Atmospheric Sciences, where I gained a solid foundation in meteorology, air quality, and remote sensing, as well as proficiency in data analysis tools such as MATLAB, Fortran, and C. During my Master's program, I have focused on air pollution research and geo-information. While during my master, I have extensively used Python for course projects and my master's thesis, my learning has been self-directed rather than systematic. I have completed several courses on ArcGIS Pro and feel reasonably confident in applying it effectively in my work. However, I have yet to use these skills in a realistic, real-world project.
