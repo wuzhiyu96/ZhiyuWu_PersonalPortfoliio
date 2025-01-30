@@ -1,6 +1,11 @@
 # Goal 2: Data acquisition and web map publishing
+
 ## Overview
-This folder contains materials related to the second learning goal, which includes the shape file of highway acquired online(snelweg.zip), a screenshot of the ArcGIS pro toolbox, as well as the web map created from these data and geo-processing.
+This folder documents the implementation of the second learning goal, focusing on geospatial data processing and visualization. It contains key resources demonstrating the practical application of ArcGIS Pro skills, including:
+
+- Highway shapefile (snelweg.zip): Geospatial data representing highway networks
+- ArcGIS Pro toolbox screenshot (GeoprocessingFlowmap.png): Illustrating the data processing workflow
+- Web map: The final visualization product created from the processed geospatial data
 
 ## Background
 I have previously completed two courses on ArcGIS Pro, which provided me with:
