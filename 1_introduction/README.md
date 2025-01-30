@@ -28,4 +28,13 @@ In my previous Master's courses, group work has always been an essential compone
 **"For this project and future career, what should be done to be responsible of your data?"**
 
 Since I come from a scientific background and completed my Bachelor's degree in another country, the topics of data privacy and conducting research ethically are relatively new to me. While I have read some articles about these issues in my personal time, I have not yet applied them in an academic setting. Additionally, I am curious about potential underlying issues associated with using public data, which often seems prevalent and harmless at first glance. To gain a deeper understanding of these topics, I will begin by reading at least three academic articles on data privacy and ethical research practices. I will document the main arguments from these articles and reflect on how they relate to this project and my future career. In Week 3, I will contribute to our group's poster presentation on the social and ethical aspects of the project. Through these efforts, I aim to develop a strong sense of responsibility for managing data ethically and to consistently consider social and ethical issues for my future professional endeavors.
-```
+
+## Reflection on the feedback
+_**Feedback on Goal 3:** Nice goal, only wonder how are you want to report this in your portfolio? Have a look at AGILE type of project planning and tools like "Kanban"._
+
+After discussing with the lecturer, I recognized the critical importance of making my learning goals concrete and measurable. For Goal 3, I will develop a comprehensive report that goes beyond a simple description. This report will analyze our group's data-sharing processes, explore the teamwork methods we implemented, and reflect on my personal growth and contributions.
+
+The report will include:
+- A systematic documentation of our group's data-sharing strategies
+- A brief introduction of collaborative methodologies, including the application in our project
+- A critical reflection on how these methods were implemented and their effectiveness
