@@ -28,7 +28,7 @@ This article lists some simple principles for data scientists.
 - To reduce the risks of reidentification of the data, the processed datasets will be editted to limit any personal information, they will only be stored in the server for 12 months, and people outside of the group can access by request.
 - Always document the processes of averaging data, removing outliers, and other modifications within the datasets. Share this information with your team and include it in the final report.
 
-### Article 2: Crowd-Sourcing the Smart City
+### Article 2: Crowd-sourcing the smart city: Using big geosocial media metrics in urban governance.
 **Major argument:**
 - In the field of computer ethics, it is very common to encounter policy vacuums due to the constant advancement of computer technology. Therefore, it is important to establish protocols for formulating policies to guide actions.
 - Core principles of research ethics: minimizing harm (including physical harm, psychological distress, social and reputational disadvantages), obtaining informed consent, and protecting subject privacy and confidentiality.
@@ -36,11 +36,17 @@ This article lists some simple principles for data scientists.
 - In today's academic environment, it is rather easy to obtain large data sets, often outside any institutional supervision or authority. However, there is a deficiency regarding teaching research ethics to students and researchers across disciplines, and especially in the domain of big data research, students from this field are not exposed to rigorous training on research ethics.
   
 **Reflection on the project environment and future:**
+- When acquiring research data, it is important to know what are the regulations and management protocols. Researchers should be aware of the potential harm that data misconduct can cause. It is crucial to deal with data responsibly and ethically.
+- Our dataset about traffic, although highly anonymized, requires careful handling. We should only store limited attributes that are highly relevant to our research. Extensive operations on irrelevant parts of the dataset should be avoided to maintain data integrity and privacy.
+- As science students, we must learn more about privacy and research ethics. It is important to communicate the significance of handling data responsibly with fellow students. If we do not raise our awareness of these issues, the consequences could be detrimental, influencing not only the academic environment but also all components of human society.
   
-### Article 3: Locating Ethics in Data Science
+### Article 3: The dynamics of big data and human rights: The case of scientific research.
+**Major argument:**
+
+**Reflection on the project environment and future:**
 
 ## Conclusions
-
+Technology development can be two-sided sword, while we as students and researchers would like to use new technology like AI to help us, it is important to see how harmful it could be. In the project setting, using too much tools like AI for coding and text generating could be detrimental for material understangindg. Therefore, we should really use it wisely, as the thing that matters is the learnign process rather than the results.
 
 ## Reference articles (details can be find in folder: /EthicsArticles)
 **-Article 1:** Zook, M., Barocas, S., Boyd, D., Crawford, K., Keller, E., Gangadharan, S. P., ... & Pasquale, F. (2017). Ten simple rules for responsible big data research. PLoS computational biology, 13(3), e1005399.
