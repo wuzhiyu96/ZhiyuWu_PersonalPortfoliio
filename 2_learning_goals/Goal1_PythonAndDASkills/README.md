@@ -1,4 +1,4 @@
-# Goal 1: Information Analysis and Visualization
+# Goal 1: Information Analysis and Visualization in Python
 
 ## Overview
 This folder contains materials related to the first learning goal, jupyter notebooks containing codes I wrote for the course are included in /Notebooks, input data and output data are stored in /Data. In both folders, there are separate README.md describing detailed information about the notebooks.
