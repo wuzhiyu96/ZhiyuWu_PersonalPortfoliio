@@ -61,10 +61,18 @@ The project ultimately demonstrated how interdisciplinary collaboration can tran
 ## Aspects of Learning
 
 ### Successful Elements
-- Skills and approaches that worked well: new things learnt during this project not mentioned earlier: Arcgis storymaps, github
-- Positive learning experiences
-- Moments of significant personal development
-- Effective strategies implemented
+#### Skills and Approaches That Worked Well
+The project introduced me to new technologies and approaches, including ArcGIS StoryMaps and GitHub, which expanded my technical toolkit. These tools not only enhanced my project capabilities but also prompted deeper reflection on research ethics. The lecturers' materials on machine learning, visualization, and data wrangling provided valuable insights into data science within environmental sciences, offering a broader perspective on research methodologies.
+
+#### Positive Learning Experiences
+The combination of lectures and group work created an ideal environment for applying newly acquired skills. Carefully following class instructions became more meaningful as theoretical knowledge transformed into practical application. The ethics workshop was particularly enlightening, offering an opportunity to brainstorm with other groups and explore diverse perspectives. This experience taught me the importance of listening without prejudice, recognizing that even within an academic setting, viewpoints can vary significantly.
+
+#### Moments of Significant Personal Development
+Initially, the project seemed overwhelming and ambiguous. However, with support from lecturers and collaborative brainstorming with fellow students, the path forward became increasingly clear. This process significantly boosted my confidence and improved my ability to handle academic pressure. Time management skills also saw substantial improvement through daily stand-up meetings and consistent communication with group mates and other student groups. These interactions provided clarity about project steps, potential challenges, and realistic time frames.
+
+#### Effective Strategies Implemented
+Maintaining a daily reflection log and creating a shared progress folder within the group proved instrumental in tracking our collective and individual development. Weekly presentations and brainstorming sessions with other groups and the lecturer provided valuable external perspectives and continuous feedback, enhancing our project's overall quality and approach.
+
 
 ### Challenges and Limitations
 - Difficulties encountered during the project
