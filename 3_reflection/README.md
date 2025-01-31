@@ -4,7 +4,7 @@
 
 ### Boundary Crossing Competence (BCC)
 
-Our project team exemplified a rich, diverse academic background, bringing together complementary expertise from different disciplines and educational levels:
+Our project team exemplified a rich, diverse cultural and academic background, bringing together complementary expertise from different disciplines and educational levels:
 
 ##### Team Composition
 - Two Master's students in Geo-Information Science (Dutch)
@@ -45,12 +45,10 @@ Our project team exemplified a rich, diverse academic background, bringing toget
   - Scientific visualization
   - ArcGIS StoryMaps
 
-
-- Experiences bridging different disciplinary perspectives
-- Challenges and successes in cross-disciplinary communication
-- How different academic backgrounds contributed to project understanding
-
 #### Knowledge Integration
+As we started to discuss about research objectives, we wanted to do a research that everyone can contribute their professional knowledge and 
+
+
 - Methods of combining technical skills with environmental research
 - Strategies for translating complex concepts across domains
 - Personal growth in adaptive thinking
