@@ -1,6 +1,9 @@
 # Goal 3: Cooperation and Data Sharing within the Group
 ## Overview
-
+In this document, I will include the main learning results of this goal, which include:
+- A brief introduction of collaborative methodologies, including the application in our project
+- A document about our group's data-sharing strategies
+- A critical reflection on the group project's management, what went well and what can be improved
 
 ## Background
 In my previous Master's courses, group work experiences varied significantly. I encountered these challenges through my program:
@@ -12,48 +15,27 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 
 ## Methodology and Collaborative Approach
 ### Teamwork Strategies
-- Personal work log maintenance
-- Organize daily group reflection meetings
+- Personal log of daily work
+- Organize daily group reflection meetings, and maintain good data-sharing behaviours
 - Consistent documentation (todo list for tomorrow at the end of the day)
 - Agile-inspired project management techniques
 
 ### Tools and Platforms
 - Teams channel for code and document sharing
 - Regular communication channels: Whatsapp 
-- Collaborative documentation practices: Onedrive and 
-
-## Implementation Details
-- Established personal work log from Week 2
-- Created detailed annotations for shared scripts
-- Implemented weekly team reflection meetings after the presentation
-- Used teams and onedrive for transparent document and code sharing
-- Read materials about AGILE working
+- Collaborative documentation practices: Onedrive and Arcgis Storymaps
 
 ## Results
-### Collaborative Outcomes
-- Improved group communication
-- More transparent task allocation
-- Enhanced documentation practices
-- Better tracking of individual and group progress
-
-### Personal Development
-- Developed systematic approach to group work
+### Popular Collaborative Methods 
+- Developed a systematic approach to group work
 - Improved skills in documentation and reflection
 - Enhanced understanding of collaborative methodologies
 
-## Conclusions
-### Goal Accomplishment
-- Successfully implemented structured collaboration approach
-- Demonstrated ability to improve group work processes
-- Developed more effective communication and documentation skills
+### Group Traffic 1's Data-sharing Strategies:
 
-### Key Learnings
-- Importance of systematic reflection
-- Value of transparent work tracking
-- Benefits of Agile-inspired project management
-- Critical role of individual contribution in group success
+### Our Project Management: Strength and Weakness
 
-### Future Recommendations
-- Continue developing collaborative skills
-- Explore advanced project management tools
-- Maintain focus on transparent, reflective work practices
+## Conclusions and reflection
+By learning about Agile project management tools, I discovered how good communication and clear record-keeping can really help group work. Even though our short project didn't show big changes, the lessons were still important for future teamwork.
+
+These tools showed me how tracking progress and sharing information can make working together easier and more effective. The skills I learned will be useful in future group projects, even if we couldn't use them fully this time.
