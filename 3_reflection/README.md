@@ -61,29 +61,23 @@ The project ultimately demonstrated how interdisciplinary collaboration can tran
 ## Aspects of Learning
 
 ### Successful Elements
-#### Skills and Approaches That Worked Well
 The project introduced me to new technologies and approaches, including ArcGIS StoryMaps and GitHub, which expanded my technical toolkit. These tools not only enhanced my project capabilities but also prompted deeper reflection on research ethics. The lecturers' materials on machine learning, visualization, and data wrangling provided valuable insights into data science within environmental sciences, offering a broader perspective on research methodologies.
 
-#### Positive Learning Experiences
 The combination of lectures and group work created an ideal environment for applying newly acquired skills. Carefully following class instructions became more meaningful as theoretical knowledge transformed into practical application. The ethics workshop was particularly enlightening, offering an opportunity to brainstorm with other groups and explore diverse perspectives. This experience taught me the importance of listening without prejudice, recognizing that even within an academic setting, viewpoints can vary significantly.
 
-#### Moments of Significant Personal Development
 Initially, the project seemed overwhelming and ambiguous. However, with support from lecturers and collaborative brainstorming with fellow students, the path forward became increasingly clear. This process significantly boosted my confidence and improved my ability to handle academic pressure. Time management skills also saw substantial improvement through daily stand-up meetings and consistent communication with group mates and other student groups. These interactions provided clarity about project steps, potential challenges, and realistic time frames.
 
-#### Effective Strategies Implemented
 Maintaining a daily reflection log and creating a shared progress folder within the group proved instrumental in tracking our collective and individual development. Weekly presentations and brainstorming sessions with other groups and the lecturer provided valuable external perspectives and continuous feedback, enhancing our project's overall quality and approach.
 
 
 ### Challenges and potential improvements
 Reflecting on my third learning goal, I recognize that I fell short of my initial intentions. The vague initial description and time constraints hindered my full engagement with the goal. This experience has taught me the importance of setting clear, specific objectives using the SMART framework. In future projects, I will take a more proactive approach, carefully defining my goals and seeking timely feedback from lecturers to ensure clarity and direction.
 
-Our project results, while solid, revealed a personal limitation in creative expression. I had some ideas but lacked the confidence to share them with my group members. In future collaborations, I aim to be more open, assertive, and willing to share my thoughts.
+During our project, we faced a major challenge in finding $NO_x$ measurement results near highways. After nearly three days of analyzing a station near Breukelen, we discovered the highway section did not experience a speed limit change in 2020. This meant our pollution measurements did not match our research goal. We eventually found another suitable station, which minimized time loss. However, the initial uncertainty was stressful. This experience taught us the importance of carefully checking project details and maintaining a clear overview of our research process.
 
-Time limit and...
+Our project results, while solid, lacks a bit of creative ideas and insights. I had some ideas but lacked the confidence to share them with my group members. In future collaborations, I aim to be more open, assertive, and willing to share my thoughts.
 
-Lack of communication when doing the final presentation...
-
-The gap between the lectures and our research is visible, as we did not change a lot of our initial research planning after the first week, but there are some interesting methods introduced later. For the future, it would be nice to be more flexible about our research plan.
+I also found out there is a gap between the lectures and our research is visible, as we did not change a lot of our initial research planning after the first week, but there are some interesting methods introduced later. For the future, it would be nice to be more flexible about our research plan.
 
 
 ## Project Outcomes and Potential Applications
