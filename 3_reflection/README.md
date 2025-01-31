@@ -46,12 +46,17 @@ Our project team exemplified a rich, diverse cultural and academic background, b
   - ArcGIS StoryMaps
 
 #### Knowledge Integration
-As we started to discuss about research objectives, we wanted to do a research that everyone can contribute their professional knowledge and 
+#### Interdisciplinary Collaboration and Knowledge Integration
 
+Our project demonstrated the power of collaborative research across different academic disciplines. Considering our expertise, we approached our research on Dutch highway speed limits with a multifaceted perspective.
 
-- Methods of combining technical skills with environmental research
-- Strategies for translating complex concepts across domains
-- Personal growth in adaptive thinking
+Throughout the project, we actively identified and addressed knowledge gaps. We recognized that our team might lack expertise and time in advanced traffic modeling and comprehensive air quality simulations. We sought additional insights from other research groups and lectures, and decided to focus mainly on visualize highway traffic in time-series manner and national map, as well as using pollution measurement data and emission calculation.
+
+We engaged with Group Traffic 2 and other teams, creating a knowledge exchange network. This approach allowed us to compensate for individual knowledge gaps and develop a more robust research methodology.
+
+Personal learning goals played a crucial role in our project. Each team member aimed to develop specific skills, share expertise, and contribute meaningfully to the research. By aligning individual objectives with team goals, we created a dynamic and supportive research environment.
+
+The project ultimately demonstrated how interdisciplinary collaboration can transform individual limitations into collective strengths, producing a comprehensive and nuanced research outcome.
 
 ## Aspects of Learning
 
@@ -68,24 +73,16 @@ As we started to discuss about research objectives, we wanted to do a research t
 - Lessons learned from setbacks
 
 ## Project Outcomes and Potential Applications
+Our research provides valuable evidence regarding the effectiveness of speed limit changes on Dutch highways, offering a comprehensive foundation for future scientific investigations. By presenting a detailed analysis, we create an accessible starting point for researchers interested in expanding this critical area of study.
 
-### Research Implications
-- Potential real-world impact of the project
-- Relevance to environmental science
-- Innovative approaches developed
+The project's outcomes extend beyond academic research, presenting practical implications for policy development. Our findings and visualizations can serve as powerful communication tools for stakeholders, including government officials, transportation planners, and environmental policymakers. By generating clear, visually compelling representations of our research, we enable more effective communication of complex environmental and transportation data. These visualizations can help translate technical findings into understandable information, facilitating broader public and professional discourse on the impacts of transportation policy changes.
 
-### Future Perspectives
-- How project skills can be applied in future research
-- Potential career directions
-- Broader significance of learned competencies
 
 ## Personal Development Reflection and Conclusion Thoughts
 - Overall growth during the project
 - Transformation of professional capabilities
 - Key insights gained
 - Recommendations for future learning
-
-## Concluding Thoughts
 - Summary of learning journey
 - Personal insights and reflections
 - Vision for continued professional development
