@@ -4,7 +4,48 @@
 
 ### Boundary Crossing Competence (BCC)
 
-#### Interdisciplinary Collaboration
+Our project team exemplified a rich, diverse academic background, bringing together complementary expertise from different disciplines and educational levels:
+
+##### Team Composition
+- Two Master's students in Geo-Information Science (Dutch)
+- One Master's student in Environmental Sciences (Chinese)
+- One PhD researcher in Environmental System Analysis (Thai)
+
+##### Individual Expertise
+
+###### Zhiyu Wu
+- Master's in Environmental Sciences
+- Bachelor's in Atmospheric Sciences
+- Specializations:
+  - Meteorology and air quality
+  - Python programming
+  - ArcGIS Pro
+  - Data analysis
+
+###### Patit Chotemankongsin
+- PhD Researcher
+- Specializations:
+  - Python programming
+  - Environmental systems analysis
+
+###### Dylan ten Hoven
+- Master's in Geo-Information Science
+- Bachelor's in Human Geography
+- Specializations:
+  - ArcGIS Pro
+  - Statistics
+  - Data cleaning and analysis
+
+###### Thijs Vons
+- Master's in Geo-Information Science
+- Bachelor's in Applied Physics
+- Specializations:
+  - Python programming
+  - Statistical analysis
+  - Scientific visualization
+  - ArcGIS StoryMaps
+
+
 - Experiences bridging different disciplinary perspectives
 - Challenges and successes in cross-disciplinary communication
 - How different academic backgrounds contributed to project understanding
@@ -17,7 +58,7 @@
 ## Aspects of Learning
 
 ### Successful Elements
-- Skills and approaches that worked well
+- Skills and approaches that worked well: new things learnt during this project not mentioned earlier: Arcgis storymaps, github
 - Positive learning experiences
 - Moments of significant personal development
 - Effective strategies implemented
@@ -40,7 +81,7 @@
 - Potential career directions
 - Broader significance of learned competencies
 
-## Personal Development Reflection
+## Personal Development Reflection and Conclusion Thoughts
 - Overall growth during the project
 - Transformation of professional capabilities
 - Key insights gained
