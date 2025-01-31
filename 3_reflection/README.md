@@ -74,11 +74,17 @@ Initially, the project seemed overwhelming and ambiguous. However, with support 
 Maintaining a daily reflection log and creating a shared progress folder within the group proved instrumental in tracking our collective and individual development. Weekly presentations and brainstorming sessions with other groups and the lecturer provided valuable external perspectives and continuous feedback, enhancing our project's overall quality and approach.
 
 
-### Challenges and Limitations
-- Difficulties encountered during the project
-- Areas of struggle or uncertainty
-- Obstacles in skill development
-- Lessons learned from setbacks
+### Challenges and potential improvements
+Reflecting on my third learning goal, I recognize that I fell short of my initial intentions. The vague initial description and time constraints hindered my full engagement with the goal. This experience has taught me the importance of setting clear, specific objectives using the SMART framework. In future projects, I will take a more proactive approach, carefully defining my goals and seeking timely feedback from lecturers to ensure clarity and direction.
+
+Our project results, while solid, revealed a personal limitation in creative expression. I had some ideas but lacked the confidence to share them with my group members. In future collaborations, I aim to be more open, assertive, and willing to share my thoughts.
+
+Time limit and...
+
+Lack of communication when doing the final presentation...
+
+The gap between the lectures and our research is visible, as we did not change a lot of our initial research planning after the first week, but there are some interesting methods introduced later. For the future, it would be nice to be more flexible about our research plan.
+
 
 ## Project Outcomes and Potential Applications
 Our research provides valuable evidence regarding the effectiveness of speed limit changes on Dutch highways, offering a comprehensive foundation for future scientific investigations. By presenting a detailed analysis, we create an accessible starting point for researchers interested in expanding this critical area of study.
@@ -86,11 +92,9 @@ Our research provides valuable evidence regarding the effectiveness of speed lim
 The project's outcomes extend beyond academic research, presenting practical implications for policy development. Our findings and visualizations can serve as powerful communication tools for stakeholders, including government officials, transportation planners, and environmental policymakers. By generating clear, visually compelling representations of our research, we enable more effective communication of complex environmental and transportation data. These visualizations can help translate technical findings into understandable information, facilitating broader public and professional discourse on the impacts of transportation policy changes.
 
 
-## Personal Development Reflection and Conclusion Thoughts
-- Overall growth during the project
-- Transformation of professional capabilities
-- Key insights gained
-- Recommendations for future learning
-- Summary of learning journey
-- Personal insights and reflections
-- Vision for continued professional development
+## Conclusion Thoughts
+Reflecting on this course, I am profoundly grateful for the opportunity to explore the multifaceted world of data science. The journey through our group project and individual portfolio has offered insights that extend far beyond technical skills. I have gained a comprehensive understanding of data science, encompassing not just technical methodologies but also critical ethical considerations and data privacy principles.
+
+Working in a diverse group setting has been particularly enlightening. The collaborative environment allowed me to learn from my peers, appreciate different perspectives, and develop crucial interpersonal skills. These experiences have been as valuable as the technical knowledge acquired, teaching me the importance of communication, mutual respect, and collective problem-solving.
+
+The course has equipped me with more than just academic knowledge. It has instilled a deeper sense of research responsibility, teaching me to approach scientific work with greater thoughtfulness and critical awareness. The skills and perspectives gained will undoubtedly be instrumental in my future career, helping me navigate complex professional challenges with confidence and integrity.
