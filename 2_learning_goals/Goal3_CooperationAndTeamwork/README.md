@@ -27,6 +27,10 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 
 ## Results
 ### Popular Collaborative Methods 
+#### AGILE
+#### Kanban 
+#### Critical Pathe Methods
+
 
 ### Group Traffic 1's Data-sharing Strategies:
 
