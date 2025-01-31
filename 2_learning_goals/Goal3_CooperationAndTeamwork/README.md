@@ -27,9 +27,6 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 
 ## Results
 ### Popular Collaborative Methods 
-- Developed a systematic approach to group work
-- Improved skills in documentation and reflection
-- Enhanced understanding of collaborative methodologies
 
 ### Group Traffic 1's Data-sharing Strategies:
 
