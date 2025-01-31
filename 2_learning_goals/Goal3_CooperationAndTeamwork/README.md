@@ -1,7 +1,9 @@
 # Goal 3: Cooperation and Data Sharing within the Group
+## Overview
+
 
 ## Background
-In previous Master's courses, group work experiences varied significantly. Common challenges included:
+In my previous Master's courses, group work experiences varied significantly. I encountered these challenges through my program:
 - Lack of systematic documentation
 - Minimal opportunities for process reflection
 - Inconsistent task tracking and contribution recording
@@ -12,7 +14,7 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 ### Teamwork Strategies
 - Personal work log maintenance
 - Organize daily group reflection meetings
-- Consistent repository documentation (todo list for tomorrow at the end of the day)
+- Consistent documentation (todo list for tomorrow at the end of the day)
 - Agile-inspired project management techniques
 
 ### Tools and Platforms
