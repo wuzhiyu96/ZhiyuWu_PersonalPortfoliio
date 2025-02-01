@@ -32,11 +32,13 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 <div align="center">
 *Agile workflow visualization*
 </div>
+
 #### Kanban 
 ![KanbanBoard](Pictures/KanbanBoard.png)
 <div align="center">
 *Kanban board example*
 </div>
+
 #### Critical Pathe Methods
 ![CPM](Pictures/Criticalpathmethod.webp)
 <div align="center">
