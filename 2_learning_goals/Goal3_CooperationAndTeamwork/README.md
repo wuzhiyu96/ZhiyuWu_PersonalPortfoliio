@@ -68,3 +68,8 @@ We committed to maintaining transparency and reproducibility by storing processe
 By learning about Agile project management tools, I discovered how good communication and clear record-keeping can really help group work. Even though our short project didn't show big changes, the lessons were still important for future teamwork.
 
 These tools showed me how tracking progress and sharing information can make working together easier and more effective. The skills I learned will be useful in future group projects, even if we couldn't use them fully this time.
+
+## References
+Agile Design: An Introduction. (2020, October 21). Shopify. https://www.shopify.com/partners/blog/agile-design
+Designveloper. (2024, October 20). 7 Project management methods besides Agile - designVeloper - medium. Medium. https://dsvgroup.medium.com/7-project-management-methods-besides-agile-7f2a3c26191d
+Rehkopf, B. M. (n.d.). What is a kanban board? [Video]. Atlassian. https://www.atlassian.com/agile/kanban/boards
