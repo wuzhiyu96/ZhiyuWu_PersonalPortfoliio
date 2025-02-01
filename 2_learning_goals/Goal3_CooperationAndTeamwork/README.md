@@ -31,9 +31,13 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 #### Kanban 
 #### Critical Pathe Methods
 
-
 ### Group Traffic 1's Data-sharing Strategies:
 
+Our group developed a systematic approach to handling research data. Thijs Vons was responsible for downloading large traffic-related datasets through his Dexter account. We implemented daily morning meetings to discuss data collection progress, identify missing information, and coordinate data acquisition.
+
+We established strict data handling protocols to maintain data integrity and protect sensitive information. Raw data access was limited exclusively to group members, ensuring confidentiality. All uploaded datasets will be automatically deleted after six months, mitigating potential information leakage risks and optimizing storage management.
+
+We committed to maintaining transparency and reproducibility by storing processed data alongside the corresponding data processing scripts. This approach ensures that our data transformation methods remain clear and traceable throughout the research process.
 ### Our Project Management: Strength and Weakness
 
 ## Conclusions and reflection
