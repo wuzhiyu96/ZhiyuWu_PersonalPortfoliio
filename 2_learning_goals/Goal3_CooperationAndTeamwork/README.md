@@ -28,19 +28,36 @@ This goal aimed to develop more effective teamwork skills, focusing on organized
 ## Results
 ### Popular Collaborative Methods 
 #### AGILE
+![AGILE](Pictures/AgileWorkflow.webp)
+<div align="center">
+*Agile workflow visualization*
+</div>
 #### Kanban 
+![KanbanBoard](Pictures/KanbanBoard.png)
+<div align="center">
+*Kanban board example*
+</div>
 #### Critical Pathe Methods
+![CPM](Pictures/Criticalpathmethod.webp)
+<div align="center">
+*Critical Path Method Workflow*
+</div>
 
 ### Group Traffic 1's Data-sharing Strategies:
 
 Our group developed a systematic approach to handling research data. Thijs Vons was responsible for downloading large traffic-related datasets through his Dexter account. We implemented daily morning meetings to discuss data collection progress, identify missing information, and coordinate data acquisition.
-![Folders that store raw data files](Pictures/RawData.png "Folders that store raw data files")
+
+![Folders that store raw data files](Pictures/RawData.png)
+<div align="center">
 *Folders that store raw data files*
+</div>
 
 We established strict data handling protocols to maintain data integrity and protect sensitive information. Raw data access was limited exclusively to group members, ensuring confidentiality. All uploaded datasets will be automatically deleted after six months, mitigating potential information leakage risks and optimizing storage management.
 
-![Data management folders final](Pictures/DataManagementTeams.png "Data and code management folers")
-*Data and code management folers*
+![Data management folders final](Pictures/DataManagementTeams.png)
+<div align="center">
+*Data and code management folders*
+</div>
 
 We committed to maintaining transparency and reproducibility by storing processed data alongside the corresponding data processing scripts. This approach ensures that our data transformation methods remain clear and traceable throughout the research process.
 ### Our Project Management: Strength and Weakness
